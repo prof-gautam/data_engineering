@@ -32,3 +32,9 @@
 
 ![Fact Sales](images/fact_sales.png)  
 *Sales fact table representing transactional data*
+
+---
+## 5. QA- Seperate Notebook
+![QA](images/qa_2.png)
+*Comparing csv data and dw data by groupping based on category, sales rep and store region*
+
